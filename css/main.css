@@ -52,6 +52,7 @@ a {
     height: 380px;
     transform: skew(8deg);
 }
+/* Text Section */
 .text {
     background-color: var(--main-color);
     padding: 30px;
@@ -74,6 +75,7 @@ a {
     font-size: 14px;
     color: var(--second-color);
 }
+/* Price Section */
 .price {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -87,6 +89,7 @@ a {
     font-size: 14px;
     padding-left: 16px;
 }
+/* Button Section */
 .button {
     background-color: var(--second-color);
     padding: 10px;
